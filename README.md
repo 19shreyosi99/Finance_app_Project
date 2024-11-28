@@ -107,14 +107,14 @@
         </ol>
         <pre>Registration successful!</pre>
 
-  <h3>Step 2: Login to Your Account</h3>
-        <ol>
-            <li>From the Main Menu, enter <code>2</code>.</li>
-            <li>Enter your <strong>username</strong> and <strong>password</strong>.</li>
-            <li>On successful login, you will see:</li>
-        </ol>
-        <pre>Login successful!
-Welcome, &lt;username&gt;!</pre>
+<h3>Step 2: Login to Your Account</h3>
+<ol>
+    <li>From the Main Menu, enter <code>2</code>.</li>
+    <li>Enter your <strong>username</strong> and <strong>password</strong>.</li>
+    <li>On successful login, you will see:</li>
+</ol>
+<pre>Login successful!    
+Welcome, username!</pre>
 
   <h3>Step 3: Navigate the Features</h3>
         <p>After logging in, the following menu will appear. Enter the corresponding number to perform an action:</p>
